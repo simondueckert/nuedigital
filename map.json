@@ -71,7 +71,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openJitsi",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"nuedigital-1"
                 }],
