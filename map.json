@@ -525,6 +525,24 @@
                         }]
                 }, 
                 {
+                 "id":96,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":97,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":106,
                  "properties":[
                         {
