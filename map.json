@@ -271,7 +271,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/meet.cogneon.de\/pad\/p\/nuedigital"
+                 "value":"https:\/\/zumpad.zum.de\/p\/nuedigital"
                 }],
          "type":"tilelayer",
          "visible":true,
