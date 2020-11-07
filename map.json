@@ -870,6 +870,15 @@
                          "type":"bool",
                          "value":true
                         }]
+                }, 
+                {
+                 "id":216,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }],
          "tilewidth":32
         }],
