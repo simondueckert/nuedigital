@@ -3,7 +3,7 @@
     {
      "export":
         {
-         "target":"..\/..\/..\/Aktivit\u00e4ten\/Desktop"
+         "target":"./"
         }
     },
  "height":34,
@@ -318,7 +318,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/..\/..\/Aktivit\u00e4ten\/Desktop\/floortileset_sina.png",
+         "image":"floortileset_sina.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -331,7 +331,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"..\/..\/..\/Aktivit\u00e4ten\/Desktop\/tilesets_deviant_milkian_1_sina.png",
+         "image":"tilesets_deviant_milkian_1_sina.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
