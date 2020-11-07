@@ -15,6 +15,12 @@
          "id":46,
          "name":"speedtest",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.speedtest.net\/de"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
