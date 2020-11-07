@@ -271,7 +271,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/meet.cogneon.de\/pad\/p\/nuedigital?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false"
+                 "value":"https:\/\/meet.cogneon.de\/pad\/p\/nuedigital"
                 }],
          "type":"tilelayer",
          "visible":true,
