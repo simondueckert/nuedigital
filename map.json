@@ -307,7 +307,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/nuernberg.digital\/programm\/remote-festival.html"
+                 "value":"https:\/\/nuernberg.digital\/programm\/remote-barcamp.html"
                 }],
          "type":"tilelayer",
          "visible":true,
